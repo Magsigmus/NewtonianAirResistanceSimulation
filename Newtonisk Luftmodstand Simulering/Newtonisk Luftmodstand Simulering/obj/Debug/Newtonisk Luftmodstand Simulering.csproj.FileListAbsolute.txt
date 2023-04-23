@@ -1,0 +1,14 @@
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk Luftmodstand Simulering.csproj.AssemblyReference.cache
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk Luftmodstand Simulering.csproj.SuggestedBindingRedirects.cache
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk_Luftmodstand_Simulering.Properties.Resources.resources
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk Luftmodstand Simulering.csproj.GenerateResource.cache
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk Luftmodstand Simulering.csproj.CoreCompileInputs.cache
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\bin\Debug\Newtonisk Luftmodstand Simulering.exe.config
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\bin\Debug\Newtonisk Luftmodstand Simulering.exe
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\bin\Debug\Newtonisk Luftmodstand Simulering.pdb
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk Luftmodstand Simulering.exe
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk Luftmodstand Simulering.pdb
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\pH_calculator.GraphDrawingForm.resources
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\bin\Debug\KGySoft.CoreLibraries.dll
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\bin\Debug\KGySoft.CoreLibraries.xml
+C:\Users\magnu\source\repos\Newtonisk Luftmodstand Simulering\Newtonisk Luftmodstand Simulering\obj\Debug\Newtonisk Luftmodstand Simulering.csproj.CopyComplete
